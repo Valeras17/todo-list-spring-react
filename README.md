@@ -25,13 +25,13 @@ A responsive and modern ToDo list web application built as a **portfolio project
 ## 📸 Screenshots
 
 ### 🧾 Main View
-![Main view](screenshots/validation.png)
+![Main view](todolist-front/screenshots/validation.png)
 
 ### ➕ Task Added
-![Add task](screenshots/add-task.png)
+![Add task](todolist-front/screenshots/add-task.png)
 
 ### 🌙 Dark Mode
-![Dark mode](screenshots/dark-mode.png)
+![Dark mode](todolist-front/screenshots/dark-mode.png)
 
 ---
 
